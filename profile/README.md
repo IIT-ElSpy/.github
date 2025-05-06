@@ -8,7 +8,7 @@ A list of publications can be found <a href="https://scholar.google.com/citation
 
 Current projects include:
 
-**Segmentation of image stacks for cell counting**
+[**Segmentation of image stacks for cell counting**](https://github.com/IIT-ElSpy/Seg_cell)
 
 **Ensemble analysis of STEM-EDX data of nanocrystals**
 
