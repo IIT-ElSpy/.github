@@ -10,8 +10,9 @@ Current projects include:
 
 [**Segmentation of image stacks for cell counting**](https://github.com/IIT-ElSpy/Seg_cell)
 
-**Ensemble analysis of STEM-EDX data of nanocrystals**
+[**ML classification of 4DSTEM data for solar cell absorbers**](https://github.com/IIT-ElSpy/2025-Paper-4DSTEM_of_solar_cell_absorbers)
 
+**Ensemble analysis of STEM-EDX data of nanocrystals**
 <!--
 
 **Here are some ideas to get you started:**
