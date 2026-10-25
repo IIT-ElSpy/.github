@@ -12,6 +12,8 @@ Current projects include:
 
 [**ML classification of 4DSTEM data for solar cell absorbers**](https://github.com/IIT-ElSpy/2025-Paper-4DSTEM_of_solar_cell_absorbers)
 
+[**Catalysis with Mn-Co tungstates**](https://github.com/IIT-ElSpy/2026-Paper-Mn-Co_tungstate_catalysis)
+
 **Ensemble analysis of STEM-EDX data of nanocrystals**
 
 You can also check out Zeyu Wang's PtyChee, for ptychography reconstructions of EM data, for which development started when he was in the group:
